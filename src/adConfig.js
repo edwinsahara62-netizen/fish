@@ -1,6 +1,6 @@
 export const adSlots = {
   homepage: {
-    enabled: false,
+    enabled: true,
   },
   inArticle: {
     enabled: true,
@@ -9,9 +9,10 @@ export const adSlots = {
     enabled: true,
   },
   underNav: {
-    enabled: false,
+    enabled: true,
   },
   floating: {
-    enabled: false,
+    enabled: true,
   },
+
 };
